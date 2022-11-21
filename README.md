@@ -1,8 +1,8 @@
-# 📊 Exercícios de Python do ["Beecrowd - Beginner"](https://www.beecrowd.com.br/judge/en/problems/index/1)
+# 📝 Exercícios de Python do ["Beecrowd - Beginner"](https://www.beecrowd.com.br/judge/en/problems/index/1)
 
 O Beecrowd é uma plataforma de estudos, desenvolvimento, desafios e muito mais para programadores.
 
-## 🍽️ Sobre o "Beecrowd - Beginner"
+## 🤓 Sobre o "Beecrowd - Beginner"
 
 São 336 problemas básicos para quem está começando seus estudos em programação.
 
